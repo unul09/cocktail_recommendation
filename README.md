@@ -18,6 +18,6 @@
 
 2. 다음 경로명을 데이터 불러오기 및 전처리 - [3]셀의 data_saved_place 변수에 넣어준다.
 
-> /content/drive/MyDrive/생성한 폴더이름/cocktail_data.csv
+  > /content/drive/MyDrive/생성한 폴더이름/cocktail_data.csv
 
 3. 실행 버튼을 눌러 실행해준다.
