@@ -18,7 +18,7 @@
 
 1. 구글 드라이브에 폴더를 생성하고 [최종제출물 추천시스템.ipynb]와 [cocktail_data.csv]를 넣어준다.
 
-2. 다음 경로명을 데이터 불러오기 및 전처리 - [3]셀의 data_saved_place 변수에 넣어준다.
+2. 다음 경로명을 섹션 [데이터 불러오기 및 전처리]의 [3]셀의 data_saved_place 변수에 넣어준다.
   > /content/drive/MyDrive/생성한 폴더이름/cocktail_data.csv
 
 3. 실행 버튼을 눌러 실행해준다.
