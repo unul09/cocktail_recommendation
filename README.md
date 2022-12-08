@@ -5,6 +5,7 @@
 군집화에서는 K-Means Clustering, 유사도 도출에서는 TF-IDF 기반 cosine simularity를 사용한다.
 
 추천 시나리오는 다음과 같다.
+
 1. 당도, 도수, 색깔, 베이스를 기준으로 칵테일 데이터를 군집화해본 뒤, 군집의 개수를 결정한다.
 2. 사용자가 원하는 맛과 도수를 입력한다.
 3. 전체 칵테일 데이터 중 중 사용자 입력과 가장 유사한 군집을 도출한다.
@@ -17,6 +18,6 @@
 
 2. 다음 경로명을 데이터 불러오기 및 전처리 - [3]셀의 data_saved_place 변수에 넣어준다.
 
-/content/drive/MyDrive/생성한 폴더이름/cocktail_data.csv
+> /content/drive/MyDrive/생성한 폴더이름/cocktail_data.csv
 
 3. 실행 버튼을 눌러 실행해준다.
